@@ -1,0 +1,250 @@
+body {
+  min-width: 900px;
+  margin: 0;
+  padding: 0;
+}
+.clearfix:after {
+  content: '';
+  display: table;
+  clear: both;
+
+}
+.main-header {
+  padding: 5px 0;
+    margin-top: -15px;
+}
+.main-header .container {
+    border-bottom: 4px solid #2cb28e;
+}
+.container {
+  width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+    margin-top: -5px;
+}
+.user-block {
+    width: 40%;
+    float: left;
+}
+
+.user-foto {
+    float: left;
+    border-radius: 100%;
+}
+
+.name {
+    padding-top: 0px;
+    height: 140px;
+    float: left;
+    padding-left: 10px;
+    margin: 0 auto;
+}
+
+.contacts {
+    float: right;
+    margin: 0 auto;
+}
+
+.contacts ul {
+    display: inline-block;
+}
+
+
+
+.greetings {
+    margin: 0 auto;
+    text-align: center;
+    width: 70%
+    
+}
+
+
+.content-left {
+    width: 49%;
+    float: left;
+    margin-top: -15px;
+}
+
+.content-right {
+    width: 49%;
+    float: right;
+    margin-right: -20px;
+    margin-top: -15px
+}
+
+.stars {
+    width: 25%;
+    float: left;
+}
+
+.stars ul {
+    clear:left;
+    clear:right;
+}
+.stars li {
+    
+    display: inline-block;
+    text-decoration: none;
+    }
+.skill-name {
+    text-align: center;
+    font-size: 1.6em;
+}
+
+.qality {
+    width: 33.3%;
+    float: left;
+    text-align: center;
+}
+.name h2{
+    color: #2cb28e;
+    font-size: 1.9em;
+}
+.main-name {
+    color: rgb(111, 94, 94);
+    font-size: 1.5em;
+}
+.round{
+     border-radius: 100px;
+}
+
+.contacts ul li {
+    list-style-type: none;
+    margin-top:5px;
+    
+}
+
+.link {
+    font-size: 1.5em;
+    text-align: left;
+    float: left
+}
+
+
+.clear {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.ico {
+    float: left;
+    width: 2em;
+    height: 2em;
+    background-color: #2cb28e;
+    border-radius: 100px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+   
+}
+
+.social-btn-dr {
+    background-image: url(images/Shape-4.png) ;
+    background-size: 1.9em 1.9em;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.social-btn-tw {
+    background-image:url(images/Shape-5.png) ;
+    background-size: 1.3em 1.1em;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.social-btn-fb {
+    background-image:url(images/Shape-6.png) ;
+    background-size: 0.51em 1.1em;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.social-btn-mail {
+    background-image: url(images/Shape-8.png);
+    background-size: 1.3em 0.9em;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.social-btn-site {
+    background-image: url(images/Shape-7.png);
+    background-size: 0.7em 1.2em;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.social-btn-tel {
+    background-image:url(images/Shape-9.png) ;
+    background-size: 1.2em 1.0em;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.greetings-title {
+    color: #2cb28e;
+    font-size: 2.5em;
+    font-weight: 900;
+    margin-top: -15px
+}
+
+
+.greetings-text {
+    font-size: 1.2em;
+    color: #626160;
+    margin-top: -1px;
+}
+
+.info-title {
+    width: 100%;
+    font-size: 1.6em;
+    font-weight: 700;
+    color: #2cb28e;
+    margin-top: -10px;
+}
+
+
+
+.line {
+    background: url(images/Shape-2-copy.png) no-repeat;
+    float: right;
+    height: 5px;
+    width: 82%;
+    margin-right: -20px;
+    margin-top: 12px;
+}
+.line:after{
+    content: '';
+    background-color: #2cb28e;
+    border-radius: 100%;
+    height: 20px;
+     width: 20px;
+    float: left;
+     margin-top: -7px;
+}
+.content-title {
+    font-size: 1.4em;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+
+.year {
+    float: right;
+    padding-right: 17%;
+    color: #2cb28e
+}
+
+.content-about {
+    font-size: 1.2em;
+    margin-top: -15px;
+}
+
+.skill {
+    padding-bottom: 20px;
+}
+
+
+
+.qq {
+    padding-top: 10px;
+}
